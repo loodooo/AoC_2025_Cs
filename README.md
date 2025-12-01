@@ -1,6 +1,6 @@
 # AoC_2025_Cs
 these are my solutions for advent of code 2025 writen in c# (for college reasons)
-#### --- Day 1: Secret Entrance ---
+### --- Day 1: Secret Entrance ---
 ```c#
         public static void Day1()
         {
